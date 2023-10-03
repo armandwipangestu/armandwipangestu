@@ -1,4 +1,4 @@
-![Banner](https://github.com/armandwipangestu/image/assets/64394320/8acfa75e-98f8-438c-b8ec-9f81118b3efc)
+![Banner](https://github.com/armandwipangestu/armandwipangestu/assets/64394320/d7c80f55-8879-47ce-b06d-ca219a74199d)
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">Computer Science | Network Technician | System Administrator</h3>
