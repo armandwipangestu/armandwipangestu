@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DNS Server, Virtualization, CSS, TailwindCSS, Codeigniter, Laravel, NextJS, Kotlin**
 
-- 📝 I regularly write articles on [https://next-markdown-blog-iota.vercel.app/](https://next-markdown-blog-iota.vercel.app/)
+- 📝 I regularly write articles on [armandwipangestu.vercel.app/blog](https://armandwipangestu.vercel.app/blog)
 
 - 💬 Ask me about **Bash, Linux, Networking**
 
