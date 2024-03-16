@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armandwipangestu&label=Profile%20views&color=0e75b6&style=flat" alt="armandwipangestu" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing, Laravel, Next.js, SQL, DNS Server, Virtualization, CSS, TailwindCSS**
+- 🌱 I’m currently learning **Cloud Computing, Laravel, Next.js, TypeScript, SQL, DNS Server, Virtualization, CSS, TailwindCSS**
 
 - 📝 I regularly write articles on [armandwipangestu.vercel.app/blog](https://armandwipangestu.vercel.app/blog)
 
@@ -39,6 +39,7 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)&nbsp;
 ![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
