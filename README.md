@@ -1,6 +1,6 @@
 ![Banner Tech](assets/banner-tech.png)
 
-<h1 align="center">Hello Everyone <img src="assets/giphy.gif">, I'm Arman Dwi Pangestu </h1>
+<h1 align="center">Hello Everyone <img src="assets/giphy.gif" width="35">, I'm Arman Dwi Pangestu </h1>
 
 <h3 align="center">Junior Web Developer | Network Technician | System Administrator</h3>
 
