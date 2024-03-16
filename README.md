@@ -4,14 +4,14 @@
 
 <h3 align="center">Junior Web Developer | Network Technician | System Administrator</h3>
 
-<span align="center">🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span>
-<span align="center">🟥🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span>
-<span align="center">🟥🟥🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span>
-<span align="center">🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</span>
-<span align="center">🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜</span>
-<span align="center">🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</span>
-<span align="center">🟥🟥🟥🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</span>
-<span align="center">🟥🟥🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</span>
+<span align="center">🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><br />
+<span align="center">🟥🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><br />
+<span align="center">🟥🟥🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><br />
+<span align="center">🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</span><br />
+<span align="center">🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜</span><br />
+<span align="center">🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</span><br />
+<span align="center">🟥🟥🟥🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</span><br />
+<span align="center">🟥🟥🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</span><br />
 <span align="center">🟥🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</span>
 
 <img align="right" alt="Coding" width="400" src="assets/programmer.gif">
