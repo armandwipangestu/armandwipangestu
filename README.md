@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello Everyone <img src="assets/giphy.gif" width="35">, I'm Arman Dwi Pangestu </h1>
 
-<h3 align="center">Junior Web Developer | Network Technician | System Administrator</h3>
+<h3 align="center">Junior Web Developer | Network Technician | System Administrator | Cloud Engineer</h3>
 
 <span align="center">🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><br />
 <span align="center">🟥🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><br />
