@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armandwipangestu&label=Profile%20views&color=0e75b6&style=flat" alt="armandwipangestu" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing, Laravel, Next.js, TypeScript, SQL, DNS Server, Virtualization, CSS, TailwindCSS**
+- 🌱 I’m currently learning **Cloud Computing, Laravel, Next.js, TypeScript, SQL, NoSQL, DNS Server, Virtualization, Container (Docker), CSS, and Tailwind CSS**
 
 - 📝 I regularly write articles on [armandwipangestu.vercel.app/blog](https://armandwipangestu.vercel.app/blog)
 
