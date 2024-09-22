@@ -56,7 +56,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Inertia](https://img.shields.io/badge/slack-%235835CC.svg?style=for-the-badge&logo=inertia&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia-%235835CC.svg?style=for-the-badge&logo=inertia&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
