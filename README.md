@@ -84,7 +84,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-###   Data Lakehouse
+### 🌊 Data Lakehouse
 
 ![MinIO](https://img.shields.io/badge/MinIO-CF163E?style=for-the-badge&logo=minio&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-E85955?style=for-the-badge&logo=ceph&logoColor=white)
