@@ -84,6 +84,21 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+###   Data Lakehouse
+
+![MinIO](https://img.shields.io/badge/MinIO-CF163E?style=for-the-badge&logo=minio&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-E85955?style=for-the-badge&logo=ceph&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-FEEC55?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Nessie](https://img.shields.io/badge/Nessie-3BAAA0?style=for-the-badge&logo=nessie&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FEEC55?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-2E7EC0?style=for-the-badge&logo=apacheiceberg&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-5AAFEF?style=for-the-badge&logo=apacheparquet&logoColor=white)
+![Apache Avro](https://img.shields.io/badge/Apache%20Avro-23CEFC?style=for-the-badge&logo=apacheavro&logoColor=white)
+![Dremio](https://img.shields.io/badge/Dremio-36D4DC?style=for-the-badge&logo=dremio&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DE08A4?style=for-the-badge&logo=trino&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-76929E?style=for-the-badge&logo=apachenifi&logoColor=white)
+![Apache ZooKeeper](https://img.shields.io/badge/Apache%20Zookeeper-547E3D?style=for-the-badge&logo=apachezookeeper&logoColor=white)
+
 ### ⚙️ DevOps, System Administrator, IT Operations
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -109,6 +124,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Thanos](https://img.shields.io/badge/Thanos-7446FF?style=for-the-badge&logo=thanos&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/zabbix-D22128?style=for-the-badge&logo=zabbix&logoColor=white)
 ![The Dude](https://img.shields.io/badge/the%20dude-D22128?style=for-the-badge&logo=the-dude&logoColor=white)
 ![Cacti](https://img.shields.io/badge/cacti-009639?style=for-the-badge&logo=prtg&logoColor=white)
