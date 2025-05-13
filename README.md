@@ -123,6 +123,9 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ### 📊 Monitoring, Site Reliability Engineering (SRE)
 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/loki-%23F46800.svg?style=for-the-badge&logo=loki&logoColor=white)
+![Alloy](https://img.shields.io/badge/alloy-%23F46800.svg?style=for-the-badge&logo=alloy&logoColor=white)
+![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Thanos](https://img.shields.io/badge/Thanos-7446FF?style=for-the-badge&logo=thanos&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/zabbix-D22128?style=for-the-badge&logo=zabbix&logoColor=white)
