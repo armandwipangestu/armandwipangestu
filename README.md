@@ -116,9 +116,6 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Active Directory](https://img.shields.io/badge/active%20directory-326CE5?style=for-the-badge&logo=activedirectory&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-FFCA28?style=for-the-badge&logo=vmware&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/-proxmox-181717?style=for-the-badge&logo=proxmox&logoColor=orange)
-![PowerDNS](https://img.shields.io/badge/powerdns-%23F46800.svg?style=for-the-badge&logo=powerdns&logoColor=151515)
-![OpenVPN](https://img.shields.io/badge/openvpn-%23ffffff.svg?style=for-the-badge&logo=openvpn&logoColor=orange)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ### 📊 Monitoring, Site Reliability Engineering (SRE)
 
@@ -142,6 +139,9 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Ruijie / Reyee](https://img.shields.io/badge/ruijie%20/%20Reyee-%23ffffff.svg?style=for-the-badge&logo=reyee&logoColor=red)
 ![TPLink](https://img.shields.io/badge/tplink-%23049fd9.svg?style=for-the-badge&logo=tplink&logoColor=white)
 ![zte](https://img.shields.io/badge/zte-%23049fd9.svg?style=for-the-badge&logo=zte&logoColor=white)
+![PowerDNS](https://img.shields.io/badge/powerdns-%23F46800.svg?style=for-the-badge&logo=powerdns&logoColor=151515)
+![OpenVPN](https://img.shields.io/badge/openvpn-%23ffffff.svg?style=for-the-badge&logo=openvpn&logoColor=orange)
+![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ### 🤖 AI, ML, DL, Generative AI
 
