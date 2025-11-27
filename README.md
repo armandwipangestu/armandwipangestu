@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello Everyone <img src="assets/giphy.gif" width="35">, I'm Arman Dwi Pangestu </h1>
 
-<h3 align="center">Junior Web Developer | Network Engineer | System Administrator | Cloud Engineer | DevOps Engineer</h3>
+<h3 align="center">Sofware Engineer</h3>
 
 <div align="center">
 	<img width="49.6%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=armandwipangestu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=4C8EDA&ring=4C8EDA&stroke=4C8EDA" alt="GitHub Stream">
