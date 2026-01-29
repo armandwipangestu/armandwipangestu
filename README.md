@@ -18,7 +18,7 @@ Hello! I am Arman from Indonesia. I love building websites, servers, scripts and
 
 - 🌱 I’m currently learning **Cloud Computing**, **Laravel**, **Next.js**, **TypeScript**, **SQL**, **NoSQL**, **DNS Server**, **Virtualization**, **Container (Docker, Kubernetes)**, **CI/CD (Jenkins, GitHub Actions)**, **UI/UX (Figma)**, **CSS**, and **Tailwind CSS**.
 
-- 📝 I regularly write articles on [armandwipangestu.vercel.app/blog](https://armandwipangestu.vercel.app/blog)
+- 📝 I regularly write articles on [devvnull.vercel.app/en/blog](https://devvnull.vercel.app/en/blog)
 
 - 👯 I’m looking to collaborate on **Web Development (Front/Back End)**, **IT Operations (Infrastructure, Deployment, Automation, etc)**, **UI/UX**<br>
 
